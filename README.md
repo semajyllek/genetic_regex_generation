@@ -1,6 +1,6 @@
 ## REGEX Generation
 
-This project was an attempt to reimplement the algorithm used by Bartoli, et. al:
+This project was an attempt to reimplement the algorithm used by Bartoli, et al.:
 
 ```
 C Bartoli, Davanzo, De Lorenzo, Mauri, Medvet, Sorio, Automatic Generation of Regular Expressions from Examples with Genetic Programming
